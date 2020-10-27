@@ -1,0 +1,9 @@
+Drawing From Data Available(No date) from: https://www.drawingfromdata.com/how-to-rotate-axis-labels-in-seaborn-and-matplotlib
+
+Lock. S. (2020) Statista. Available from: https://www.statista.com/statistics/219454/mcdonalds-restaurants-worldwide/ [Accessed on 26 October 2020]
+
+https://towardsdatascience.com/plot-in-python-with-matplotlib-step-by-step-dd69f2e9175a
+
+https://www.geeksforgeeks.org/python-seaborn-swarmplot-method/
+
+https://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.nlargest.html

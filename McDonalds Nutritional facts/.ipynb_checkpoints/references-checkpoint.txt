@@ -1,9 +1,16 @@
-Drawing From Data Available(No date) from: https://www.drawingfromdata.com/how-to-rotate-axis-labels-in-seaborn-and-matplotlib
+Drawing From Data Available(No date). Avaliable from: https://www.drawingfromdata.com/how-to-rotate-axis-labels-in-seaborn-and-matplotlib [Accessed on 26 October 2020]
 
 Lock. S. (2020) Statista. Available from: https://www.statista.com/statistics/219454/mcdonalds-restaurants-worldwide/ [Accessed on 26 October 2020]
 
+(26th - 27th)
 https://towardsdatascience.com/plot-in-python-with-matplotlib-step-by-step-dd69f2e9175a
 
 https://www.geeksforgeeks.org/python-seaborn-swarmplot-method/
 
 https://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.nlargest.html
+
+The Association of UK Dietitians (No date). Avaliable from: https://www.bda.uk.com/resource/plant-based-diet.html [Accessed on 03 November 2020]
+
+dictionary.com (No Date). Avaliable from: https://www.dictionary.com/e/pop-culture/paleo-diet/ [Accessed on 03 November 2020]
+
+Bjarnadottir. A. (2019) healthline. Avaliable from: https://www.healthline.com/nutrition/9-weight-loss-diets-reviewed#TOC_TITLE_HDR_4 [Accessed on 03 November 2020]

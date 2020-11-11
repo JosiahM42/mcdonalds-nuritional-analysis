@@ -17,3 +17,13 @@ based on data - you should avoid or you can eat
 show plots of highest ..... from each section
 
 how many calories 
+
+ * What can you eat if you are on a low carb diet?
+    
+    * What can you eat if you are on a low fat diet?
+    
+    * What can you eat if you are on a low sodium diet?
+    
+    * What can you eat if you are on a high protein diet?
+    
+    * What can you eat if you are on a heart related diet?

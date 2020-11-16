@@ -2,13 +2,6 @@ Drawing From Data Available(No date). Avaliable from: https://www.drawingfromdat
 
 Lock. S. (2020) Statista. Available from: https://www.statista.com/statistics/219454/mcdonalds-restaurants-worldwide/ [Accessed on 26 October 2020]
 
-(26th - 27th)
-https://towardsdatascience.com/plot-in-python-with-matplotlib-step-by-step-dd69f2e9175a
-
-https://www.geeksforgeeks.org/python-seaborn-swarmplot-method/
-
-https://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.nlargest.html
-
 The Association of UK Dietitians (No date). Avaliable from: https://www.bda.uk.com/resource/plant-based-diet.html [Accessed on 03 November 2020]
 
 dictionary.com (No Date). Avaliable from: https://www.dictionary.com/e/pop-culture/paleo-diet/ [Accessed on 03 November 2020]
@@ -18,4 +11,18 @@ Bjarnadottir. A. (2019) healthline. Avaliable from: https://www.healthline.com/n
 Diabetes UK (No Date). Avalible From: https://www.diabetes.org.uk/guide-to-diabetes/enjoy-food/eating-with-diabetes/meal-plans/low-carb [Accessed on 04 November 2020]
 
 Accessed 14th nov
-https://www.nhs.uk/live-well/eat-well/how-does-sugar-in-our-diet-affect-our-health/#:~:text=Products%20are%20considered%20to%20either,of%20total%20sugars%20per%20100g
+NHS. (No Date). Avaliable from: https://www.nhs.uk/live-well/eat-well/how-does-sugar-in-our-diet-affect-our-health/#:~:text=Products%20are%20considered%20to%20either,of%20total%20sugars%20per%20100g [Accessed 14th November 2020]
+
+Spritzler. F. (2020). Diet Doctor. Avaliable from: https://www.dietdoctor.com/low-carb/protein [Accessed 14th November 2020]
+
+Spritzler. F. (2020). Diet Doctor. Avaliable from: https://www.dietdoctor.com/low-carb/saturated-fat
+
+Mandl. E (2020) healthline. Avaliable from: https://www.healthline.com/nutrition/diet-soda-good-or-bad#weight-loss [Accessed 16 November 2020]
+
+Meixner. M (2018) healthline. Avaliable from: https://www.healthline.com/nutrition/healthy-low-fat-foods [Accessed 16 November 2020]
+
+WebMD. (No Date) Avaliable from: https://www.webmd.com/women/reducing-dietary-fat#1 [Accessed 16 November 2020]
+
+Olsen. M (2019) Medical News Today. Avaliable from: https://www.medicalnewstoday.com/articles/324915 [Accessed 16 November 2020]
+
+WebMD (No Date). Avaliable at: https://www.webmd.com/diet/ss/slideshow-high-protein-diet [Accessed 16 November 2020]
